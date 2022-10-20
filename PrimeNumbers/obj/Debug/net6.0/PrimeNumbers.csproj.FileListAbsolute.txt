@@ -1,0 +1,15 @@
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.exe
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.deps.json
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.runtimeconfig.json
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.dll
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\bin\Debug\net6.0\PrimeNumbers.pdb
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.csproj.AssemblyReference.cache
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfoInputs.cache
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.AssemblyInfo.cs
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.csproj.CoreCompileInputs.cache
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.dll
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\refint\PrimeNumbers.dll
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.pdb
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\PrimeNumbers.genruntimeconfig.cache
+C:\Users\marek\Documents\Programowanie\prime_numbers\PrimeNumbers\obj\Debug\net6.0\ref\PrimeNumbers.dll
